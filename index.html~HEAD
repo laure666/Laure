@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<style> 
+		body
+		{
+			background-color: white 
+		}
+	</style>
+	<style>
+		h1, h2 , h3 
+		{
+			color: orange;
+			text-align: center;
+		}
+	</style>
+	<style>
+		p, ul, h3 
+		{
+			text-align: center;
+		}
+	</style>
+	<title>Bienvenue chez moi</title>
+</head>
+<body>
+	<h1>voulez-vous me connaitre?</h1>
+	<h2>Mon identité</h2>
+	<ul>
+		<h3> <ul>coordonnées:</ul> </h3>
+		<p>Iboutsi Lauriane Maéva<br/>
+			07 43 30 79/02 53 13 82<br/>
+			iboutsimaybe@gmail.com<br/>
+			Camp de Gaulle/Libreville
+		</p>
+	</ul>
+	<h2>ma photo</h2>
+	<p><img src="photo.JPG" height="352" width="470" alt="Personnage"/> </p>
+	<h2>Education</h2>
+	<ul>
+		<ul>Université Omar Bongo</ul>
+		<ul>Licence en Economie option Economie Internationale promotion 2016-2017 </ul>
+
+	</ul>
+<h2>Experience Professionnelle</h2>
+<ul>Assistante commerciale à Initial Ecran De Décembre 2018 à mai 2019 </ul>
+<h2>Biographie</h2>
+<ul>
+	<ul>Vidéo</ul> <video src="video.mp4" controls="autoplay"></video>
+	<p>Lauriane Maéva IBOUTSI est une fille rigide en apparence mais très sympatique quand on la connais mieux.Très rigoureuse dans le travail,elle se bat et bosse dur pour ses rêves ,mais quand il le faut, elle sait aussi s'amuser.Elle adore passer du temps en famille et surtout avec ses amis.Cotoyer Maéva chaque jour est un délice,car elle prend toujours la vie du bon côté et partage sa bonne humeur.</p>
+</ul>
+<h2>Réseaux sociaux</h2>
+<p>Retrouvez-moi sur</p>
+	<ul>Facebook:<a href="https://www.facebook.com/laurianemaeva.iboutsi">facebook</a> </ul>
+	<ul>Instagram:<a href="https://www.instagram.com/?hl=fr">Instagram</a></ul>
+<h2>Centres d'interêt</h2>
+<ul>Danse</ul>
+<ul>Musique</ul>
+<ul>Cinéma</ul>
+<ul>Sport</ul>
+<h2>Multimédia</h2>
+<ul>Musique</ul> <p> <audio src="videoplayback.mp3" controls="autoplay"> 
+</audio> </p>
+<p>Mon heroîne préférée c'est Wonderwoman</p>
+<ul> <img src="images.jpg" height="352" width="470" alt="Personnage"/> </ul>
+
+</body>
+</html>
